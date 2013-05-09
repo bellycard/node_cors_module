@@ -3,7 +3,7 @@ node_cors_module
 
 A very simple node module which outputs cors headers, we share this between node projects
 
-## Installation
+### Installation
 
 Add to your dependencies in package.json, with a reference to this repository
 
@@ -13,14 +13,14 @@ Add to your dependencies in package.json, with a reference to this repository
 }
 ```
 
-## Usage
+### Usage
 
 ```JAVASCRIPT
 cors = require('node_cors_module');
 cors.setHeaders(res);
 ```
 
-## Development
+### Development
 
 Source files are written in coffee, and compied into JavaScript.  To watch the src directory and compile js into the add directory
 ```
