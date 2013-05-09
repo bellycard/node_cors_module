@@ -1,0 +1,20 @@
+{
+  "name": "node_cors_module",
+  "description": "Simple node module to output CORS headers",
+  "author": "Belly Inc.",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bellycard/node_cors_module.git"
+  },
+  "license": "MIT"
+}
