@@ -2,7 +2,8 @@
   "name": "node_cors_module",
   "description": "Simple node module to output CORS headers",
   "author": "Belly Inc.",
-  "version": "0.0.1",
+  "main": "node_cors_module",
+  "version": "0.0.2",
   "dependencies": {
   },
   "scripts": {
