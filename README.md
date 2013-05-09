@@ -17,9 +17,7 @@ Add to your dependencies in package.json, with a reference to this repository
 
 ```JAVASCRIPT
 cors = require('node_cors_module');
-
-cors.setHeaders(res)
-
+cors.setHeaders(res);
 ```
 
 ## Development
